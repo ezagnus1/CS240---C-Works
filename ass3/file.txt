@@ -1,0 +1,8 @@
+The result of evaluating: 23.8 4 * 19.5 2 - +  is 112.7
+The result of evaluating: 6.8 10.5 -  is -3.7
+The result of evaluating: 36 6 /  is 6
+The result of evaluating: 3 4 5 * 6 7 8 / + + -  is -23.875
+The result of evaluating: -1 10 *  is -10
+The result of evaluating: 56 0 /  is inf
+The result of evaluating: 6 7 11 * 9 / -  is -2.55556
+The result of evaluating: -23.6 4.5 * 3.2 8.4 / +  is -105.819

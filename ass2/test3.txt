@@ -1,0 +1,18 @@
+A computer 10 .60
+A wire 4 4.50
+A screen 5 5.4 2
+A CPP 20 4.0 1
+A keyboard 30 4.25 3
+DA
+D 2
+DC
+R 4
+DN
+DA
+R 2
+DC
+DA
+R 2
+R1
+DC
+DA
